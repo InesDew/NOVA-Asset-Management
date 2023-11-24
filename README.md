@@ -1,6 +1,6 @@
 # Nova School of Business and Economics
 
-## Asset Management 2022/2023 - T4
+## Asset Management Group Assignment 2022/2023 - T4
 
 1. For this exercise use the file ”Tickers”, which specifies the tickers of the 50 stocks you should use
     given your group number. Retrieve monthly Book-to-Market data and monthly prices for your
